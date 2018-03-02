@@ -1,4 +1,27 @@
 
-h1{
+.container {
+	 height: 40px;
+  width: 100%;
+  background-color:rgba(34, 49, 52, 0.9);
+  font-family: 'Amatic SC', cursive;
+}
+
+.profile {
+	padding-left: 30px;
+}
+
+.profile h2 {
 	color: blue;
+}
+
+.profile-box1{
+	float: left;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.profile-box2{
+	float: left;
+	padding-left: 30px;
+	padding-left: 30px;
 }
