@@ -1,17 +1,24 @@
 
-.container {
-	 height: 40px;
-  width: 100%;
-  background-color:rgba(34, 49, 52, 0.9);
-  font-family: 'Amatic SC', cursive;
-}
 
+}
 .profile {
 	padding-left: 30px;
+	height: 100%;
+	width:  100%;
+	background : yellow !important;
+	background-image: url("img-1.png");
+
+	 
+
+}
+
+.profile h1 {
+	color: blue;
+	background-color: red;
 }
 
 .profile h2 {
-	color: blue;
+	line-height: 20%;
 }
 
 .profile-box1{
@@ -25,3 +32,4 @@
 	padding-left: 30px;
 	padding-left: 30px;
 }
+	font-family: 'Amatic SC', cursive;
