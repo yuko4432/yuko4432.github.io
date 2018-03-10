@@ -1,19 +1,16 @@
-s
-html,body {
-   margin:0px;
-  
-}
-body {
-   min-height:100%;
-    height:100% !important;
-}
 
+body {
+  width: 100%;
+  height: 100%;
+  /*移動しました*/
+  font-family: 'Amatic SC', cursive;
+}
 
 .profile {
 	padding-left: 30px;
-	height: 100%;
-	width:  100%;
-	background : yellow !important;
+	background : yellow;
+  /*追加しました*/
+  overflow:auto; 
 }
 
 .profile h1 {
@@ -26,16 +23,17 @@ body {
 }
 
 .profile-box1{
-	float: left;
+  float: left;
 	padding-left: 30px;
 	padding-right: 30px;
 }
 
 .profile-box2{
-	float: left;
+  float: left;
 	padding-left: 30px;
 	padding-left: 30px;
 }
+<<<<<<< HEAD
 	
 
 
@@ -45,3 +43,5 @@ body {
 
 
 
+=======
+>>>>>>> f59e99a492fec69106f233fecb66ea69c6d4f99a
